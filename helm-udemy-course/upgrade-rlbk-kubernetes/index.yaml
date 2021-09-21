@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  upgrade-rlbk-kubernetes:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-09-21T18:32:13.179892+01:00"
+    description: A Helm chart for Kubernetes upgrade and rollback Test
+    digest: 968f933e8f6bbf9e417496f02fefd4d1672f09e71d7a388c805382a809b01329
+    name: upgrade-rlbk-kubernetes
+    type: application
+    urls:
+    - upgrade-rlbk-kubernetes-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-09-21T18:32:13.1783+01:00"
